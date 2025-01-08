@@ -26,3 +26,37 @@ This Odoo module streamlines the management of employee loans, from application 
 
 ### Profit JV Management: 
                           Updates existing profit JVs for subsequent installments, instead of creating new ones, ensuring accurate financial tracking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![validation_error_on_applying_loan_when_one_loan_is_active](https://github.com/user-attachments/assets/c496ff7e-d709-48dd-9c96-a3c46eb16893)
+![Screenshot from 2025-01-08 10-50-53](https://github.com/user-attachments/assets/dd4d8e08-d527-43d6-b0d4-60dc87655598)
+![Screenshot from 2025-01-08 10-50-31](https://github.com/user-attachments/assets/a91e545d-a3c5-4e2d-afb9-2f96516c4ba9)
+![proper_link_btw_loan_jv](https://github.com/user-attachments/assets/c40695aa-b9f9-4ffe-854e-5b87afe4a558)
+![profit_jv_update_on_clicking_paid_plus_or_minus](https://github.com/user-attachments/assets/aafbc440-15e8-49d8-b6c2-bc8480acdaa4)
+![profit_jv_auto_created_on_clicking_paid](https://github.com/user-attachments/assets/7c420627-565d-4ecc-8b70-e7541bd51fc0)
+![Loan_Front_Empty](https://github.com/user-attachments/assets/8061df21-ff8a-4500-a0c8-8280cf5d4db5)
+![jv_auto_created](https://github.com/user-attachments/assets/59ea4510-bd1a-410c-a9ca-2bca616da687)
+![employee_form_loan_page_and_smart_button](https://github.com/user-attachments/assets/f1dffe6d-6ab0-48f9-8116-b149829ea2f7)
+
+
+
+
+
+
+
+
+                          
