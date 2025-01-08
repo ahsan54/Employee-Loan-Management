@@ -21,8 +21,8 @@ This Odoo module streamlines the management of employee loans, from application 
 ### Smart Button Navigation: 
                           Smart buttons on employee forms for quick access to related journal entries and profit JVs.
 
-# Loan Application Restrictions: 
+### Loan Application Restrictions: 
                           Prevents employees from applying for new loans if they have an active loan.
 
-# Profit JV Management: 
+### Profit JV Management: 
                           Updates existing profit JVs for subsequent installments, instead of creating new ones, ensuring accurate financial tracking.
